@@ -2,11 +2,19 @@
 En esta actividad debíamos elegir un dataset de nuestra preferencia y, mediante la implementación de los algoritmos Árbol de Decisión y K-NN, evaluar y comparar la precisión de los clasificadores generados.
 Yo elegí trabajar con el dataset "Titanic" que trae Seaborn y estos fueron los resultados obtenidos:
 **Precisión global (accuracy)**
+
+
 Árbol de Decisión: 74.4 %
+
+
 K-NN: 78.1 %
 
 **Matriz de confusión**
+
+
 Árbol de Decisión
+
+
 Predijo correctamente:
 99 pasajeros que no sobrevivieron.
 61 pasajeros que sobrevivieron.
